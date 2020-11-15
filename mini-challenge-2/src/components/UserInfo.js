@@ -10,7 +10,8 @@ export class UserInfo extends Component {
     }
 
     /* Create your two click handlers here.
-    One to sign in, one to sign out. Each one
+    One to sign in, one to sign out e.g. 
+    handleSignIn(), handleSignOut(). Each one
     should modify the state accordingly. */
 
     render() {
